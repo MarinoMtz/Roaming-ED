@@ -12,6 +12,7 @@ dev_eui included in the afnic side:  ` 344b770044aa1250, ... 55`
 
 ## Captures 
 
-1. Join request 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+1. Join request at the Network Server trace ![Alt text](/images/NS_log.png?raw=true "JR")
+
+
 
