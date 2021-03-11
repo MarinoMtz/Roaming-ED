@@ -18,4 +18,4 @@ dev_eui included in the afnic side:  ` 344b770044aa1250, ... 55`
 
 ![Alt text](/images/NS_log.png?raw=true "JR")
 
-3. Port 53: ` sudo tcpdump -ni ens3 udp port 53 ` ![Alt text](/images/port 53.png?raw=true "JR") 
+3. Port 53: ` sudo tcpdump -ni ens3 udp port 53 ` ![Alt text](/images/port_53.png?raw=true "JR") 
