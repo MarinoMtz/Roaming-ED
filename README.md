@@ -20,7 +20,7 @@ dev_eui included in the afnic side:  ` 344b770044aa1250, ... 55`
 
 3. Port 53: ` sudo tcpdump -ni ens3 udp port 53 ` ![Alt text](/images/port_53.png?raw=true "JR") 
 
-# Local and node (and nodes visiting other networks)
+# Local and and nodes visiting other networks
 
 dev_eui included in the afnic side:  `b3e02e3f60308872, ... 80`
 
