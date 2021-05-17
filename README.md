@@ -28,7 +28,7 @@ dev_eui included in the afnic side:  `b3e02e3f60308872, ... 80`
 
 ` app_eui = AC 01 DA C1 DA 71 B1 2A ` 
 
-1. Chirpstack Application Server ![Alt text](/images/JR.png?raw=true "JR")
+1. Chirpstack Application Server ![Alt text](/images/JR_home.png?raw=true "JR")
 
 2. Network server trace ` sudo journalctl -f -n 100 -u chirpstack-application-server` 
 
