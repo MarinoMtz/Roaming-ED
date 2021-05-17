@@ -22,7 +22,7 @@ dev_eui included in the afnic side:  ` 344b770044aa1250, ... 55`
 
 # Local and and nodes visiting other networks
 
-## Python file example, to launch with Pycom Lopy included in ` join_home.py ` and ` plido.py
+## Python file example, to launch with Pycom Lopy included in ` join_home.py ` and ` plido.py `
 
 dev_eui included in the afnic side:  `b3e02e3f60308872, ... 80`
 
