@@ -8,7 +8,7 @@ dev_eui included in the afnic side:  ` 344b770044aa1250, ... 55`
 
 ` app_eui =  00 00 00 00 00 00 00 01 ` 
 
-## Python file example, to launch with Pycom included in ` join-req.py `
+## Python file example, to launch with Pycom Lopy included in ` join_visiting_ED.py `
 
 ## Captures 
 
@@ -21,6 +21,8 @@ dev_eui included in the afnic side:  ` 344b770044aa1250, ... 55`
 3. Port 53: ` sudo tcpdump -ni ens3 udp port 53 ` ![Alt text](/images/port_53.png?raw=true "JR") 
 
 # Local and and nodes visiting other networks
+
+## Python file example, to launch with Pycom Lopy included in ` join_home.py ` and ` plido.py
 
 dev_eui included in the afnic side:  `b3e02e3f60308872, ... 80`
 
